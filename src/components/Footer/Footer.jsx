@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} - Template developed by Jacobo Martínez
+          © Prajwal Kammardi{new Date().getFullYear()} - Original Template credits - Jacobo Martínez
         </p>
 
         {isEnabled && <GithubButtons />}
