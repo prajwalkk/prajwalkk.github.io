@@ -56,7 +56,7 @@ export const projectsData = [
     info: 'Distributed program for parallel processing of the publically available DBLP dataset that contains entries for various publications at many different venues (e.g., conferences and journals). Raw XML-based DBLP dataset is also publically available along with its schema and the documentation.',
     info2: 'Deployed in Amazon EMR',
     url: 'https://youtu.be/ou1ybwYI7Ec',
-    repo: 'https://github.com/cobidev/react-shttps://github.com/prajwalkk/DBLP-statistics-MapReduceimplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/prajwalkk/DBLP-statistics-MapReduceimplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
