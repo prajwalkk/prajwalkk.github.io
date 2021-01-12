@@ -24,7 +24,7 @@ export const aboutData = {
     "I am currently pursuing my Master's degree in Computer Science at the University of Illinois at Chicago. My areas of study and interest would include Clound Computing, Micro-Services, Mobile/Web development, Machine Learning, to name a few. Please refer to GitHub button at the bottom of the page to check out my projects.",
   paragraphThree:
     'Formerly, I worked as a Software Engineer at Mindtree Ltd., for a client who is the Global leader in Hospiality industry as a performance and an automation engineer. I worked on tools to Test the functional and non-functional requirements in Big-Data Projects (ETL and Microservices).',
-  resume: 'https://drive.google.com/file/d/1gnG7oeN9H-Ji_fhnDsahlX7H-_pACn7D/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:fb078754-9a6f-4846-b684-5077cae52bd7', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
