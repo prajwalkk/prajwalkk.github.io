@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am a technophile and a passionate programmer who loves to program new stuff and solve the complex problems (clichéd, yet true). When I am not coding, I like to watch Anime or go Swimming. I love going on treks and I hold a 1st Dan-Black belt in Taekwondo (Still need to get my fitness levels back).',
+    'I am a technophile and a passionate programmer who loves to program new stuff and solve the complex problems (clichéd, yet true) and also root Android phones. As life is not a machine learning application, when I am not coding, I like to game on my PC or go Swimming. I love going on treks and I hold a 1st Dan-Black belt in Taekwondo.',
   paragraphTwo:
-    "I am currently pursuing my Master's degree in Computer Science at the University of Illinois at Chicago. My areas of study and interest would include Clound Computing, Micro-Services, Mobile/Web development, Machine Learning, to name a few. Please refer to GitHub button at the bottom of the page to check out my projects.",
+    "I am currently pursuing my Master's degree in Computer Science at the University of Illinois at Chicago. My areas interest includes Cloud Computing, Micro-Services, Mobile/Web development, Machine Learning, to name a few. Please refer to GitHub button at the bottom of the page to check out my projects.",
   paragraphThree:
-    'Formerly, I worked as a Software Engineer at Mindtree Ltd., for a client who is the Global leader in Hospiality industry as a performance and an automation engineer. I worked on tools to Test the functional and non-functional requirements in Big-Data Projects (ETL and Microservices).',
+    'Formerly, I worked as a Software Engineer for 2 years at Mindtree Ltd., for a client who is the Global leader in Hospitality industry as a performance and an automation engineer. I worked on tools to Test the functional and non-functional requirements in Big-Data Projects (ETL and Microservices Performance and Automation Engineering). I worked with technologies ike JMeter, Java, Cassandra, Hadoop, MapReduce, Pig, Hive, Play Frameworks, to name a few.',
   resume: 'https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:fb078754-9a6f-4846-b684-5077cae52bd7', // if no resume, the button will not show up
 };
 
