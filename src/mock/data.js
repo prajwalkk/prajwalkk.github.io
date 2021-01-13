@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     "I am currently pursuing my Master's degree in Computer Science at the University of Illinois at Chicago. My areas interest includes Cloud Computing, Micro-Services, Mobile/Web development, Machine Learning, to name a few. Please refer to GitHub button at the bottom of the page to check out my projects.",
   paragraphThree:
-    'Formerly, I worked as a Software Engineer for 2 years at Mindtree Ltd., for a client who is the Global leader in Hospitality industry as a performance and an automation engineer. I worked on tools to Test the functional and non-functional requirements in Big-Data Projects (ETL and Microservices Performance and Automation Engineering). I worked with technologies ike JMeter, Java, Cassandra, Hadoop, MapReduce, Pig, Hive, Play Frameworks, to name a few.',
+    'Formerly, I worked as a Software Engineer for 2 years at Mindtree Ltd., for a client who is the Global leader in Hospitality industry as a performance and an automation engineer. I worked on tools to Test the functional and non-functional requirements in Big-Data Projects (ETL and Microservices Performance and Automation Engineering). I worked with technologies ike JMeter, Java, Cassandra, Hadoop, MapReduce, Pig, Hive, to name a few.',
   resume: 'https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:fb078754-9a6f-4846-b684-5077cae52bd7', // if no resume, the button will not show up
 };
 
